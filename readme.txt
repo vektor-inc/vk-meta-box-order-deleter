@@ -11,5 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
+metaboxの表示順をリセットするプラグインです。記事編集画面のサイドバーのmetaboxが本文欄の下に移動してしまって戻れなくなった時などに有効化してください。一度有効化したらリセットされるので、プラグインを停止してください。
+
 == Changelog ==
 
